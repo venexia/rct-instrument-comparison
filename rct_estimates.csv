@@ -1,0 +1,9 @@
+﻿Drug,Outcome,Approach,Trials,RR,LCI,UCI,cases,controls
+Angiotensin converting enzyme inhibitors,Coronary heart disease,RCT,2,0.81,0.7,0.94,60801,123504
+Beta-adrenoceptor blockers,Coronary heart disease,RCT,5,0.9,0.78,1.03,60801,123504
+Calcium channel blockers,Coronary heart disease,RCT,1,0.77,0.55,1.09,60801,123504
+Thiazides and related diuretics,Coronary heart disease,RCT,7,0.72,0.61,0.84,60801,123504
+Beta-adrenoceptor blockers,Stroke,RCT,5,0.83,0.72,0.97,40585,406111
+Calcium channel blockers,Stroke,RCT,1,0.58,0.41,0.84,40585,406111
+Thiazides and related diuretics,Stroke,RCT,8,0.68,0.6,0.77,40585,406111
+Angiotensin converting enzyme inhibitors,Stroke,RCT,3,0.65,0.52,0.82,40585,406111
