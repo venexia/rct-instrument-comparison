@@ -7,7 +7,7 @@ This letter was written in response to the article by Walker et al, titled "[Rep
 
 ## Scripts
 
-The script 'perform_MR.R' provides the code to calculate Mendelian randomization estimates of antihypertensive drug effects on coronary heart disease and stroke risk using the instruments from [Walker et al](https://doi.org/10.1093/ije/dyz155) in R. These estimates are presented in Figure 1 in the letter.
+The script 'perform_MR.R' provides the code to calculate Mendelian randomization estimates of antihypertensive drug effects on coronary heart disease and stroke risk using the instruments from Walker et al in R. These estimates are presented in Figure 1 in the letter.
 
 ## Data
 
