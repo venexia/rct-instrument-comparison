@@ -1,7 +1,9 @@
 
 # Comparison with randomized controlled trials as a standard for evaluating instruments in Mendelian randomization
 
-This repository contains the code associated with the letter by Gill et al, titled "Comparison with randomized controlled trials as a standard for evaluating instruments in Mendelian randomization". This letter was written in response to the article by [Walker et al](https://doi.org/10.1093/ije/dyz155), titled "Repurposing antihypertensive drugs for the prevention of Alzheimer’s disease: a Mendelian randomization study".
+This repository contains the code associated with the letter by Gill et al, titled "[Comparison with randomized controlled trials as a standard for evaluating instruments in Mendelian randomization](https://doi.org/10.1093/ije/dyz236)". 
+
+This letter was written in response to the article by Walker et al, titled "[Repurposing antihypertensive drugs for the prevention of Alzheimer’s disease: a Mendelian randomization study](https://doi.org/10.1093/ije/dyz155)".
 
 ## Scripts
 
